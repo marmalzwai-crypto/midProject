@@ -1,0 +1,69 @@
+{
+  "splash": {
+    "title": "Falcon club"
+  },
+  "onboarding": {
+    "skip": "Skip",
+    "next": "Next",
+    "done": "Done",
+    "title1": "Shop easily",
+    "body1": "Find everything you need in one place.",
+    "title2": "Fast delivery",
+    "body2": "Your orders arrive quickly and safely.",
+    "title3": "Best prices",
+    "body3": "Great deals every day, just for you."
+  },
+  "login": {
+    "title": "Welcome back",
+    "subtitle": "Log in to continue",
+    "email": "Email",
+    "password": "Password",
+    "button": "Log in",
+    "no_account": "Don't have an account?",
+    "signup": "Sign up"
+  },
+  "signup": {
+    "title": "Create account",
+    "subtitle": "Sign up to get started",
+    "name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "button": "Sign up",
+    "have_account": "Already have an account?",
+    "login": "Log in"
+  },
+  "home": {
+    "title": "Home"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "dark_mode": "Dark mode"
+  },
+  "details": {
+    "price": "Price",
+    "description": "Description"
+  },"products": {
+  "1": {
+    "name": "Golden Traditional Necklace",
+    "description": "A beautiful golden 21-karat traditional necklace that adds elegance to any outfit. Perfect for special occasions and celebrations."
+  },
+  "2": {
+    "name": "Shanbeera (traditional Libyan gold jewelry)",
+    "description": "A beautiful golden 18-karat traditional Shanbeera that adds elegance to Libyan traditional attire."
+  },
+  "3": {
+    "name": "Van Cleef (6 flowers)",
+    "description": "A beautiful 6-flower golden 18-karat Van Cleef that adds elegance to your look."
+  },
+  "4": {
+    "name": "Van Cleef (3 flowers)",
+    "description": "A beautiful 3-flower golden 18-karat Van Cleef that adds elegance to your look."
+  },
+  "5": {
+    "name": "Golden Necklace",
+    "description": "A traditional 21-karat golden necklace that adds elegance to your appearance."
+  }
+}
+  
+}
